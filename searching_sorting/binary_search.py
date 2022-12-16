@@ -5,9 +5,7 @@ high = len(a)
 print (high)
 
 def binary_search(key, low, high, a):
-    
-    
-    
+     
     if (low > high):
         print("element not found")
         return
